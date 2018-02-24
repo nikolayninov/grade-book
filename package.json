@@ -1,0 +1,26 @@
+{
+  "name": "grade-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tashkencho/grade-book.git"
+  },
+  "keywords": [
+    "grade"
+  ],
+  "author": "'Nikolay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tashkencho/grade-book/issues"
+  },
+  "homepage": "https://github.com/tashkencho/grade-book#readme"
+}
